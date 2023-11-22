@@ -1,5 +1,5 @@
 {
-  "name": "bitandbang",
+  "name": "joeng03",
   "version": "3.0.1",
   "description": "A personal card for Tierney Cyren (@bitandbang)",
   "main": "/bin/card.js",
@@ -8,9 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/joeng03/joeng03.git"
   },
-  "homepage": "https://bnb.im",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -25,7 +24,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Yin Joe Ng",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -37,7 +36,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/joeng03/joeng03/issues"
   },
   "dependencies": {}
 }
