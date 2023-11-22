@@ -18,7 +18,7 @@ const data = {
   name: chalk.white("           Yin Joe Ng"),
   handle: chalk.white("joeng03"),
   shorthandle: chalk.white("joeng03"),
-  npm: chalk.gray("https://npmjs.com/") + chalk.red("~joeng03"),
+  npm: chalk.gray("https://www.npmjs.com/package/") + chalk.red("joeng03"),
   github: chalk.gray("https://github.com/") + chalk.green("joeng03"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("joeng03"),
   npx: chalk.red("npx") + " " + chalk.white("joeng03"),
