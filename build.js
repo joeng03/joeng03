@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white("           Yin Joe Ng"),
   handle: chalk.white("joeng03"),
-  shorthandle: chalk.white("joeng03"),
+  chineseName: chalk.white("黄胤茁"),
   npm: chalk.gray("https://www.npmjs.com/package/") + chalk.red("joeng03"),
   github: chalk.gray("https://github.com/") + chalk.green("joeng03"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("joeng03"),
@@ -30,7 +30,7 @@ const data = {
 
 // Actual strings we're going to output
 const newline = "\n";
-const heading = `${data.name} / ${data.handle} / ${data.shorthandle}`;
+const heading = `${data.name} / ${data.handle} / ${data.chineseName}`;
 const npming = `${data.labelnpm}  ${data.npm}`;
 const githubing = `${data.labelGitHub}  ${data.github}`;
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`;

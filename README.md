@@ -1,54 +1,44 @@
-## Hi, I'm Yin Joe 🤠!
+# Hi, I'm Yin Joe 🤠!
 
 ![](https://komarev.com/ghpvc/?username=joeng03&color=green)
 
-### 📖 About me
+## 📖 About me
 
 - Software engineer with bold ideas
-- Passionate Computer Science Student at the National University of Singapore, graduating in May 2026
+- Passionate Computer Science and Mathematics student at the National University of Singapore, graduating in May 2026
 - Curious logician (INTP) who loves puzzles and strategy games
 - Run `npx joeng03` to download my business card!
 
-<br/>
-
-### 🔭 I'm currently working as:
+## 🔭 I'm currently working as:
 
 - Lead Backend Engineer at Google Developer Student Clubs NUS, developing a Volunteer Management System for Ground-Up Initiative, a non-profit organization
 - Data Engineer Intern at Real Estate Analytics, a proptech company providing AI solutions for real estate
 - Teaching Assistant for CS1, an introductory programming course in C/C++ for pre-university students in Singapore
 
-<br/>
+## 🛠️ My skills:
 
-### 🛠️ My skills:
-
-#### Frontend:
+### Frontend:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,graphql,mui,tailwind,html,css,jquery&perline=10&theme=light)](https://skillicons.dev)
 
-#### Backend:
+### Backend:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,go,c,cpp,cs,java,py,nestjs,flask,django,rails,prisma,postgresql,mysql,mongodb,redis&perline=10&theme=light)](https://skillicons.dev)
 
-#### DevOps:
+### DevOps:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,aws,github,githubactions,gitlab,vercel,gradle,jest,selenium&perline=10&theme=light)](https://skillicons.dev)
 
-<br/>
-
-### 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 [![Rust](https://skillicons.dev/icons?i=rust,vue)](https://skillicons.dev)
 
-<br/>
-
-### 👯 I’m looking to collaborate on:
+## 👯 I’m looking to collaborate on:
 
 ✅Open Source Projects!\
 ✅Internships!
 
-<br/>
-
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 - Email: joe.ng@u.nus.edu
 - Telegram: [@joeng03](https://t.me/joeng03)
