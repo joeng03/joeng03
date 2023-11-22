@@ -38,5 +38,7 @@
   "bugs": {
     "url": "https://github.com/joeng03/joeng03/issues"
   },
-  "dependencies": {}
+  "dependencies": {
+    "joeng03": "^0.2.0"
+  }
 }
