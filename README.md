@@ -30,7 +30,7 @@ I'm a passionate Year 2 Computer Science student at NUS. Beyond coding, I am inv
 
 #### 👯 I’m looking to collaborate on:
 
-✅Open Source Projects!
+✅Open Source Projects!\
 ✅Internships!
 
 #### 📫 How to reach me:
