@@ -12,7 +12,7 @@
 ## 🔭 I'm currently working as:
 
 - Lead Backend Engineer at Google Developer Student Clubs NUS, developing a Volunteer Management System for Ground-Up Initiative, a non-profit organization
-- Data Engineer Intern at Real Estate Analytics, a proptech company providing AI solutions for real estate
+- Data Engineer Intern at Real Estate Analytics, a proptech company providing AI solutions for real estate across APAC
 - Teaching Assistant for CS1, an introductory programming course in C/C++ for pre-university students in Singapore
 
 ## 🛠️ My skills:
