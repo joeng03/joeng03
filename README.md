@@ -1,4 +1,4 @@
-# Hi, I'm Yin Joe 🤠!
+# Hi, I'm Yin Joe 🤠
 
 ![](https://komarev.com/ghpvc/?username=joeng03&color=green)
 
