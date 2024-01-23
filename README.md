@@ -12,7 +12,8 @@
 ## 🔭 I'm currently working as:
 
 - Lead Backend Engineer at Google Developer Student Clubs NUS, developing a Volunteer Management System for Ground-Up Initiative, a non-profit organization
-- SAP Student Ambassador 
+- Software Engineer at NUS Fintech Society
+- SAP Digital: Student Ambassador 
 
 ## 🛠️ My skills:
 
