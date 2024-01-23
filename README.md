@@ -31,7 +31,7 @@
 
 ## 🌱 I’m currently learning ...
 
-[![Rust](https://skillicons.dev/icons?i=swift,rust,vue)](https://skillicons.dev)
+[![Rust](https://skillicons.dev/icons?i=swift,rust,vue&perline=10)](https://skillicons.dev)
 
 ## 👯 I’m looking to collaborate on:
 
