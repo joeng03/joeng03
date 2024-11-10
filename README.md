@@ -13,8 +13,7 @@
 
 - Lead Backend Engineer at Google Developer Student Clubs NUS, developing a Volunteer Management System for Ground-Up Initiative, a non-profit organization
 - Software Engineer at NUS Fintech Society
-- Software Engineer Fellow at Headstarter AI
-- Software Engineer Intern at GIC, Singapore's sovereign wealth fund
+- Software Engineer Intern at Julius Baer
 
 ## 🛠️ My skills:
 
