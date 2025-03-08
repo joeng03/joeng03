@@ -4,15 +4,14 @@
 
 ## 📖 About me
 
-- Software engineer with bold ideas
-- Passionate Computer Science and Mathematics student at the National University of Singapore, graduating in May 2025
+- Software engineer with bold ideas. Interested in markets & trading.
+- Passionate Computer Science and Mathematics student at the National University of Singapore, graduating in Jan 2026
 - Curious logician (INTP) who loves puzzles and strategy games
 - Run `npx joeng03` to download my business card!
 
 ## 🔭 I'm currently working as:
 
 - Lead Backend Engineer at Google Developer Student Clubs NUS, developing a Volunteer Management System for Ground-Up Initiative, a non-profit organization
-- Software Engineer at NUS Fintech Society
 - Software Engineer Intern at Julius Baer
 
 ## 🛠️ My skills:
@@ -23,11 +22,11 @@
 
 ### Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,go,c,cpp,cs,java,py,nestjs,flask,django,rails,prisma,postgresql,mysql,mongodb,redis&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,go,c,cpp,cs,java,py,cuda,nestjs,flask,django,rails,prisma,postgresql,mysql,mongodb,redis&perline=10&theme=light)](https://skillicons.dev)
 
 ### DevOps:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,aws,github,githubactions,gitlab,vercel,gradle,jest,selenium&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,aws,github,githubactions,gitlab,vercel,gradle,jest,selenium,grafana&perline=10&theme=light)](https://skillicons.dev)
 
 ## 🌱 I’m currently learning ...
 
