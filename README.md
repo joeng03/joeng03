@@ -4,7 +4,7 @@
 
 ## 📖 About me
 
-- Software engineer with bold ideas. Interested in markets & trading.
+- Software engineer with bold ideas. Interested in markets & trading
 - Passionate Computer Science and Mathematics student at the National University of Singapore, graduating in Jan 2026
 - Curious logician (INTP) who loves puzzles and strategy games
 - Run `npx joeng03` to download my business card!
