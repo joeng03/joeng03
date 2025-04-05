@@ -39,7 +39,7 @@
 
 ## 📫 How to reach me:
 
-- Email: joe.ng@u.nus.edu
+- Email: yinjoeng2003@gmail.com
 - Telegram: [@joeng03](https://t.me/joeng03)
 - LinkedIn: [joeng03](https://www.linkedin.com/in/joeng03/)
 
