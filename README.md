@@ -11,8 +11,7 @@
 
 ## 🔭 I'm currently working as:
 
-- Lead Backend Engineer at Google Developer Student Clubs NUS, developing a Volunteer Management System for Ground-Up Initiative, a non-profit organization
-- Software Engineer Intern at Julius Baer
+- Software Engineer Intern at TikTok
 
 ## 🛠️ My skills:
 
