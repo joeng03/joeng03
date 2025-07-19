@@ -34,7 +34,7 @@
 ## 👯 I’m looking to collaborate on:
 
 ✅Open Source Projects!\
-✅Internships!
+✅Full-time positions!
 
 ## 📫 How to reach me:
 
