@@ -33,8 +33,8 @@
 
 ## 👯 I’m looking to collaborate on:
 
-✅Open Source Projects!\
-✅Full-time positions!
+✅ Open Source Projects!\
+✅ Full-time positions!
 
 ## 📫 How to reach me:
 
