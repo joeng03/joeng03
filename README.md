@@ -21,7 +21,7 @@
 
 ### Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,go,c,cpp,cs,java,py,kafka,redis,nestjs,flask,django,rails,prisma,postgresql,mysql,mongodb&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,go,c,cpp,cs,java,py,kafka,redis,nestjs,fastapi,flask,django,rails,prisma,postgresql,mysql,mongodb&perline=10&theme=light)](https://skillicons.dev)
 
 ### DevOps:
 
