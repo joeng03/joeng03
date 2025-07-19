@@ -17,7 +17,7 @@
 
 ### Frontend:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,graphql,mui,tailwind,html,css,jquery&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,graphql,mui,tailwind,vite,html,css,jquery&perline=10&theme=light)](https://skillicons.dev)
 
 ### Backend:
 
