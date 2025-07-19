@@ -17,7 +17,7 @@
 
 ### Frontend:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,graphql,mui,tailwind,vite,html,css,jquery&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,vue,svelte,graphql,mui,tailwind,vite,html,css,jquery&perline=10&theme=light)](https://skillicons.dev)
 
 ### Backend:
 
@@ -29,7 +29,7 @@
 
 ## 🌱 I’m currently learning ...
 
-[![Rust](https://skillicons.dev/icons?i=swift,rust,vue&perline=10)](https://skillicons.dev)
+[![Rust](https://skillicons.dev/icons?i=swift,rust&perline=10)](https://skillicons.dev)
 
 ## 👯 I’m looking to collaborate on:
 
