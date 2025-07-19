@@ -25,7 +25,7 @@
 
 ### DevOps:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,aws,github,githubactions,gitlab,vercel,gradle,jest,selenium,grafana&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,aws,github,githubactions,gitlab,terraform,vercel,gradle,jest,selenium,grafana&perline=10&theme=light)](https://skillicons.dev)
 
 ## 🌱 I’m currently learning ...
 
