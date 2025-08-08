@@ -11,7 +11,7 @@
 
 ## 🔭 I'm currently working as:
 
-- Software Engineer Intern at TikTok
+- Quantitative Technology Intern @ Qube Research & Technologies
 
 ## 🛠️ My skills:
 
