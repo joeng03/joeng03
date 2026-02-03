@@ -1,0 +1,814 @@
+{
+  "version": "https://schema.openattestation.com/2.0/schema.json",
+  "data": {
+    "id": "db150574-681d-4200-8987-840c8cfaef65:string:NUS-A0255771X-B031003-20260131",
+    "$template": {
+      "name": "d161556b-6994-4ac3-8e9c-f5f82ed0aea0:string:NUS-K1-2019",
+      "type": "b4e14bb6-bda0-4f6b-89bf-daed95c33201:string:EMBEDDED_RENDERER",
+      "url": "02b23979-9dad-4115-bc0d-bfb832999d53:string:https://opencerts.nus.edu.sg"
+    },
+    "issuedOn": "aa372472-34ed-4cb3-adbd-c3a2483eadd9:string:2026-02-02T22:18:50+08:00",
+    "graduationDate": "a97bfb72-0bb2-4eb3-aab3-8bebfd4ccd28:string:2026-01-31T00:00:00+08:00",
+    "attainmentDate": "e0620588-d652-41aa-a92f-644c9e3f211d:string:2026-01-31T00:00:00+08:00",
+    "name": "fcec9259-a6cc-424e-9940-4bd86f6e81e9:string:Bachelor of Computing (Computer Science)",
+    "qualificationLevel": [
+      {
+        "frameworkName": "7b40f38c-194a-4200-bbdb-c8559c4022e7:string:singapore/ssec-eqa",
+        "frameworkVersion": "2f917517-1a4e-4f0a-a9a9-a9561d71a39d:string:2015",
+        "code": "136ae153-103e-4031-9e97-a3d6ebcc010f:string:70",
+        "description": "46cec333-aaf6-4b8d-a8b1-e6d46064d1de:string:Bachelor's degree or equivalent"
+      }
+    ],
+    "fieldOfStudy": [
+      {
+        "frameworkName": "16ca81e8-318f-417c-8f8b-7762e76df711:string:singapore/ssec-fos",
+        "frameworkVersion": "c9e761e7-1b8d-43d1-96f1-878d59c0a736:string:2015",
+        "code": "efaf2794-a84b-4e0f-accf-1290359b9934:string:0917",
+        "description": "f1d3b749-cf4f-4e87-bb22-d07260d2c9be:string:Infocomm Security Mgmt"
+      }
+    ],
+    "issuers": [
+      {
+        "id": "6552ad52-b007-4f7f-adba-c822450fa06c:string:did:ethr:0x253b74046d0d0d9efe214212f7900ae8b4f78f39",
+        "issuerName": "19b2a9aa-1f65-465d-aede-528673cc7c03:string:National University of Singapore",
+        "name": "e5a0bd75-760e-4268-a462-4d813bf0027f:string:National University of Singapore",
+        "revocation": {
+          "type": "e74f2af8-841e-4fb0-98dc-fd69e55db4aa:string:REVOCATION_STORE",
+          "location": "823a0b72-e48f-46bd-accc-1d9544249ca4:string:0x66671988ee465b5c23ef18838b32b1666d0ec8d6"
+        },
+        "identityProof": {
+          "type": "efa6577c-4252-4f24-8974-1883d8967c85:string:DNS-DID",
+          "key": "a20a6be7-e351-4600-a170-fd877e151687:string:did:ethr:0x253b74046d0d0d9efe214212f7900ae8b4f78f39#controller",
+          "location": "d27d1631-9c12-47fb-8322-8cf014578a5c:string:nus.edu.sg"
+        },
+        "url": "0718e631-58f3-41a6-914a-c7ca0684d804:string:http://nus.edu.sg"
+      }
+    ],
+    "recipient": {
+      "name": "98a78980-e8cb-43f9-90af-d7daa1bbaaab:string:NG YIN JOE",
+      "studentId": "93823baf-d73c-4445-ae89-c338f526042a:string:A0255771X",
+      "dateOfBirth": "6f104312-50d2-4e53-968f-9c1230340d58:string:2003-01-05"
+    },
+    "transcript": [
+      {
+        "name": "87375837-80ca-4ac1-89aa-eaf8d72398fc:string:Career Catalyst",
+        "courseCode": "d7fa58ea-944d-4217-8910-142b226a80d1:string:CFG1002",
+        "grade": "002f7f87-c252-4cf5-9877-f15e549b1a1d:string:CS",
+        "courseCredit": "51567655-888f-4e11-aa4e-aa2d62e669f9:number:2",
+        "gradingBasis": "49670a96-584a-41e6-a1a3-1eda391fd823:string:CSU",
+        "includeInGPA": "497e54d9-fe57-42ed-9ad9-de32f2309e0c:boolean:false",
+        "reportNo": "b27485f8-05c4-4b1d-84c5-bee8091f7c4f:number:1",
+        "semester": "9721d15c-3f46-4030-9935-8ee729d20dec:string:2210"
+      },
+      {
+        "name": "e5b206c2-e3ca-41a0-8d86-4cfc2a4dba41:string:Programming Methodology",
+        "courseCode": "4501a763-ffe9-4181-8cae-fd10e1e13672:string:CS1101S",
+        "grade": "649906b7-28c5-45f1-93a5-c6f1361f4cc4:string:A+",
+        "courseCredit": "ba81a4f2-463f-499f-a0f3-fc403a0bef30:number:4",
+        "gradingBasis": "70bd086c-46bc-44f7-97ba-91b624c104d0:string:GRD",
+        "includeInGPA": "3940e57a-17ab-426e-a451-91e8a1d754e7:boolean:true",
+        "reportNo": "ed8d5923-7747-4263-bc92-d09ec1ce779d:number:1",
+        "semester": "d6fd08ee-6212-4ead-8f73-525f6fd3d341:string:2210"
+      },
+      {
+        "name": "f93a8c70-fae4-4d5f-ac10-aca8dea27ece:string:Discrete Structures",
+        "courseCode": "89edccfe-2e1c-4adf-b226-726dfbd65682:string:CS1231S",
+        "grade": "11b9c7ef-78d4-47e6-bf4b-e4f66c61032e:string:A+",
+        "courseCredit": "e34f9d5a-c370-4999-803e-cae4d1ab74c2:number:4",
+        "gradingBasis": "8746a221-147c-4edc-90c4-2b5529bece78:string:GRD",
+        "includeInGPA": "4175d12f-67f1-4757-8bfc-6f375ea5948c:boolean:true",
+        "reportNo": "588cc0ae-722a-4bcc-8535-8e710ea51f93:number:1",
+        "semester": "f409e1f2-8722-41b3-ba62-2c44a8971561:string:2210"
+      },
+      {
+        "name": "ea17845c-da51-41ec-bd55-ffbfa80a8e65:string:Communicating in the Information Age",
+        "courseCode": "4983f5c2-6cba-4cdc-9771-2771f3ee4a97:string:ES2660",
+        "grade": "0bca44ca-1c70-4256-88b4-1230bfb14b37:string:S",
+        "courseCredit": "28ae32f3-9f3c-4179-8ca6-63d17d8258c0:number:4",
+        "gradingBasis": "2a5a4a93-2653-4083-825e-bd80030c5a44:string:SNU",
+        "includeInGPA": "4975c94f-60bf-4b62-a367-96fb4b3072ea:boolean:false",
+        "reportNo": "09698d10-84a5-4675-b2f5-0ed16822af09:number:1",
+        "semester": "2b281fae-efb8-4d26-8254-99684634fcbb:string:2210"
+      },
+      {
+        "name": "5bd00f7d-2d62-4f55-ad0f-87817bc17311:string:Quantitative Reasoning with Data",
+        "courseCode": "01bc71b1-b521-4f5a-b443-6b748e55aec7:string:GEA1000",
+        "grade": "ccf40af4-a701-4789-b4b3-5fba01aeb0d6:string:S",
+        "courseCredit": "0c9b07a0-8e68-4ac4-b7d7-3b630baa4fcb:number:4",
+        "gradingBasis": "2a6caa8c-163b-4755-94ac-52d6dc5edbdf:string:SNU",
+        "includeInGPA": "a01d8634-58dd-4ffc-b71d-e058e427a7d0:boolean:false",
+        "reportNo": "50690e47-4a4b-41ee-ac78-2ae22c57431a:number:1",
+        "semester": "9fcefdcc-0a9a-4ca1-9320-c2853f85a4ef:string:2210"
+      },
+      {
+        "name": "d80acd8c-9786-429c-aab8-c29028b690c4:string:Linear Algebra I",
+        "courseCode": "67147980-0f44-490c-b77f-67a04acd2f04:string:MA2001",
+        "grade": "a6e8bb82-b29d-4a43-86ac-e5851b96996c:string:A+",
+        "courseCredit": "70d274d9-3e68-4b69-9cc2-d506bc6cc609:number:4",
+        "gradingBasis": "2665234a-7df3-44ff-9ef5-d560f60e867f:string:GRD",
+        "includeInGPA": "da23c27b-b501-4b89-98da-4c6d1d52ba5a:boolean:true",
+        "reportNo": "39665a25-c092-4ab7-a96f-c614175b49a9:number:1",
+        "semester": "05601569-d0a2-4e96-8fa6-65ecb3556e66:string:2210"
+      },
+      {
+        "name": "f812dda8-4b5f-4ffe-b067-99c891fc6efc:string:Independent Work",
+        "courseCode": "0d87bc20-9f11-4274-9a8d-763df246f46e:string:CP3108A",
+        "grade": "faede26e-68cd-44eb-80b7-7cc74f59b396:string:CS",
+        "courseCredit": "49c12f75-f8ff-4979-8df0-4637dab1baa4:number:2",
+        "gradingBasis": "9b3bcc01-6388-4d17-af7a-58e84bce45c9:string:CSU",
+        "includeInGPA": "307ea488-950a-46d4-be3d-ce887be4998e:boolean:false",
+        "reportNo": "e6373aad-f029-4596-818d-4b24a8c0d3af:number:1",
+        "semester": "51b69216-9b62-4e7f-a1f8-f09f99ae9b58:string:2220"
+      },
+      {
+        "name": "1890e682-2f88-44c6-a07d-ddc24cdaf854:string:Programming Methodology",
+        "courseCode": "edc9df58-24f0-4d3a-ac7b-4e658fe735ed:string:CS1010R",
+        "grade": "5baa184e-fd29-4605-91c4-999b22125f18:string:A+",
+        "courseCredit": "6cffe30d-2952-4749-a27f-6e4d787c4072:number:1",
+        "gradingBasis": "3defe9e4-e3ca-4312-8f41-e81139ff59ee:string:GRD",
+        "includeInGPA": "c15ac4fe-25c7-4d61-83fe-b1069f7f92ad:boolean:true",
+        "reportNo": "c0bd5055-db9f-4963-b22b-eeeef2dafd71:number:1",
+        "semester": "ac5e4fe2-1ea8-48f3-96d8-dab7ebd7a3b4:string:2220"
+      },
+      {
+        "name": "29f22bdd-46ef-4197-af7c-c66f6a3dccae:string:Programming Methodology II",
+        "courseCode": "89828894-a7c3-4937-b115-81584428c04c:string:CS2030S",
+        "grade": "3f08d0a1-feca-4f88-ad0d-922dfc641a46:string:A+",
+        "courseCredit": "ca220357-7787-461d-9fd2-b801e91b89c4:number:4",
+        "gradingBasis": "42aaf39c-5f3f-452c-a386-c8f2c98b25cc:string:GRD",
+        "includeInGPA": "b9b1e6de-fd9d-4738-9652-456192a19607:boolean:true",
+        "reportNo": "1673ca68-760d-44eb-bab2-b14e96ab8d77:number:1",
+        "semester": "dabf561b-6082-4294-b34b-bb37fc0aaf5d:string:2220"
+      },
+      {
+        "name": "dd5df09c-fbf3-4f23-a118-9d3fb4ac90e5:string:Data Structures and Algorithms",
+        "courseCode": "3def7142-0bde-443f-b3ca-08ce31f953c5:string:CS2040S",
+        "grade": "be01a150-7a15-4126-93e5-ccae37f8f1a9:string:A-",
+        "courseCredit": "fda30505-06a4-481b-b4f0-eea6bbb79f19:number:4",
+        "gradingBasis": "5effb05e-1486-46f4-9553-a55cc861393a:string:GRD",
+        "includeInGPA": "7cb8d75e-ddc5-4f8b-bb5c-6b6d8d48f976:boolean:true",
+        "reportNo": "53a1b635-6ced-4cd0-8fc1-ee0b37d79f0a:number:1",
+        "semester": "8db3db5f-9096-45b8-b671-8cae2890d890:string:2220"
+      },
+      {
+        "name": "3c0395f4-94c1-4b05-8e8b-48f2cb957eac:string:Computer Organisation",
+        "courseCode": "02f4eb2d-8b13-4b29-9b02-b64b701ea633:string:CS2100",
+        "grade": "550e1ba5-7fbc-4216-9bba-6c49d8889c9e:string:A+",
+        "courseCredit": "2232be8a-2c31-4204-a037-edee8a9b2741:number:4",
+        "gradingBasis": "e13da401-da43-4272-8ed8-5a6c42f649ec:string:GRD",
+        "includeInGPA": "9e2ab7a0-9c09-4e67-912f-2954bfb02c30:boolean:true",
+        "reportNo": "aa48f157-6306-4c0b-b9b4-abbe3422bc87:number:1",
+        "semester": "ffb78c91-92ed-449a-ab82-073de963ee35:string:2220"
+      },
+      {
+        "name": "9bb79ce7-f205-4f68-93e1-1e113e41c8df:string:Digital Ethics and Data Privacy",
+        "courseCode": "348593c9-18e7-4f2c-9f64-dbe19433e4a9:string:IS1108",
+        "grade": "ce551b05-c206-49e8-a689-031fc4a95a9c:string:S",
+        "courseCredit": "6d1e67bf-96f8-44b8-9f79-6634b624adec:number:4",
+        "gradingBasis": "765712bc-9003-45e8-a79b-aa6a0cdc3169:string:SNU",
+        "includeInGPA": "938253b9-af1b-436b-aa5d-83e9308e5602:boolean:false",
+        "reportNo": "8941c59c-fa76-4b9e-be36-ad4b39e59a07:number:1",
+        "semester": "f53c70f6-c9c5-40ca-8080-1dcb36b832dd:string:2220"
+      },
+      {
+        "name": "f74b1cfc-89b9-4865-b859-e01866716058:string:IT, Management and Organisation",
+        "courseCode": "83b191ee-6e89-4069-86f6-b6ba96de3ae9:string:IS1128",
+        "grade": "3c6d616b-6267-4476-95a1-799c255846fd:string:S",
+        "courseCredit": "15100e96-90da-4d26-8b1e-9ea3ddd59844:number:4",
+        "gradingBasis": "698edb33-9ce0-48f6-be9e-862d0e4ebeaf:string:SNU",
+        "includeInGPA": "ce5784f1-1867-42f3-9471-fc65f6f292f0:boolean:false",
+        "reportNo": "3a473732-f5dd-40c0-bad6-74a9a014f97a:number:1",
+        "semester": "2707554f-f8b2-4ffa-a0c1-f43ad0486655:string:2220"
+      },
+      {
+        "name": "f19c2eff-c53f-4675-8d29-9829c681be48:string:Calculus for Computing",
+        "courseCode": "2287ea3a-cfbf-4376-8b82-7a0d00e6b37b:string:MA1521",
+        "grade": "1493f71a-2a4f-4385-8e4c-f459b566ab82:string:A-",
+        "courseCredit": "fa740da9-3317-4423-b511-c471241cbf06:number:4",
+        "gradingBasis": "db27788c-3308-4a27-85e0-ac2fa3d189fe:string:GRD",
+        "includeInGPA": "01b01839-2751-47be-8c2c-9d78c006b2c2:boolean:true",
+        "reportNo": "f35baca0-97b8-42fc-93d4-dd856b55dd76:number:1",
+        "semester": "f8ca24cf-2ee2-4478-8d74-459087fbafc5:string:2220"
+      },
+      {
+        "name": "4ecf3048-6059-4388-a7cd-164f1eb1e423:string:Computing for Voluntary Welfare Organisations",
+        "courseCode": "5d5b0bba-c122-40e9-b607-75b6b9fa7131:string:CP3107",
+        "grade": "4040ca15-2f11-46d0-999d-30214c3cb99a:string:IP",
+        "courseCredit": "e56483cb-8d47-40a4-ad5b-7a241668bdc4:number:6",
+        "gradingBasis": "89f5ced3-d15e-4a39-b7b1-e0e8d80d64d7:string:CSU",
+        "includeInGPA": "7fb525de-ed34-47a1-a62c-a78980cb9b63:boolean:false",
+        "reportNo": "79cc3960-693f-49ca-bc60-15c44f15e551:number:1",
+        "semester": "92e17e7c-4dc6-4663-9ca5-5ee30cbcc84f:string:2230"
+      },
+      {
+        "name": "41b56e11-ac64-43db-8fde-aaf4b3e83bc4:string:Computing for Voluntary Welfare Organisations",
+        "courseCode": "b5acc29a-b2a6-4a27-8d10-c3c224096b21:string:CP3107",
+        "grade": "73fb54a6-0e50-45fe-a3f1-c685e7e539b7:string:CS",
+        "courseCredit": "e7001226-3f17-4158-a6ae-def557478db3:number:6",
+        "gradingBasis": "9f3c4b7f-0e03-49d2-92bf-658bb88980fb:string:CSU",
+        "includeInGPA": "e7ce2e63-e6c3-4d26-a11e-c2335098f569:boolean:false",
+        "reportNo": "2a738418-ca5b-421d-81fc-3a4c509fb7a3:number:1",
+        "semester": "bcd496ae-2ff6-42d3-beb4-1889da59fa61:string:2240"
+      },
+      {
+        "name": "f4f8b139-d5ec-46ec-8d73-341da13d388a:string:Effective Communication for Computing Professionals",
+        "courseCode": "ff79782c-47ed-4edc-8269-4af87618d1e9:string:CS2101",
+        "grade": "dfc33b8c-3953-4363-a447-073c68bf5b4d:string:S",
+        "courseCredit": "dcf2c40d-a80e-47da-8490-0e51b9a23c8c:number:4",
+        "gradingBasis": "99b49636-d1e0-47a9-91bf-690305c3dcf1:string:SNU",
+        "includeInGPA": "086761ff-1520-4f04-9b05-da7ad76d4fbe:boolean:false",
+        "reportNo": "879049fc-d12f-41ac-bb31-ca31cfa9f758:number:1",
+        "semester": "8f18461a-a4e5-4c14-8a16-22bd765eff26:string:2310"
+      },
+      {
+        "name": "91cf828b-245a-4a42-8eb1-6cfea13254f8:string:Database Systems",
+        "courseCode": "4dc5bbe6-7f80-445f-95f8-a93310a6ad4b:string:CS2102",
+        "grade": "9a010f6b-30ed-4d4d-ba54-0b3e38149f48:string:A",
+        "courseCredit": "d3c84431-29d6-45a8-ada1-31ca466ca2a3:number:4",
+        "gradingBasis": "10c86229-7717-4d4a-be70-6367a5ff8638:string:GRD",
+        "includeInGPA": "8bd2e2ea-9936-4c1c-ac53-3a746d2d222f:boolean:true",
+        "reportNo": "49732e82-df50-43bf-86f6-22ed8b385a54:number:1",
+        "semester": "b06e0c53-d0d5-4e0a-90b8-9d397d74b040:string:2310"
+      },
+      {
+        "name": "c436ad68-fc66-4547-99b4-d1f39c6a4e11:string:Software Engineering",
+        "courseCode": "48e95e9c-b189-4386-830b-05be6c3441ae:string:CS2103T",
+        "grade": "31146017-ec1c-4f47-8915-64584209f405:string:A",
+        "courseCredit": "1aaef132-cab7-4cc1-8531-4c910202cea8:number:4",
+        "gradingBasis": "1f22a52a-8f9c-49cc-8240-2156784b8f6d:string:GRD",
+        "includeInGPA": "5b58b226-bf7b-4932-8754-03b009de55cf:boolean:true",
+        "reportNo": "1437d8b9-4a73-4e1a-a3b3-670adfaf701b:number:1",
+        "semester": "fd88a0e5-0308-4535-a0e5-1c7cdf3d45d4:string:2310"
+      },
+      {
+        "name": "0b7c5adf-3677-4a86-ab39-d011436675a1:string:Introduction to Operating Systems",
+        "courseCode": "f487b285-e4a8-495c-8399-e8ffce4d387e:string:CS2106",
+        "grade": "49a0d56f-a794-47c9-9225-a07e93cf43c0:string:A-",
+        "courseCredit": "ee966429-bb99-489d-8312-6fd8bb4e1244:number:4",
+        "gradingBasis": "8950a64a-ef80-4ce6-aa1d-c0bfbcd78258:string:GRD",
+        "includeInGPA": "c3ab4b8d-49a1-40cf-bacb-3b7ef33c68c3:boolean:true",
+        "reportNo": "e717511d-ee14-4c11-a94a-acf4f9c31473:number:1",
+        "semester": "074eb1c7-1ea7-44ad-8d63-21b4a6bb91c7:string:2310"
+      },
+      {
+        "name": "053d51f9-ecbc-4c1d-9bbd-e72e306374a9:string:Introduction to AI and Machine Learning",
+        "courseCode": "c39d03f8-9c1f-4c58-b072-f85ac8fbc7e8:string:CS2109S",
+        "grade": "912e5923-5899-437e-b92e-720ab30d4c39:string:W",
+        "courseCredit": "95dffcf5-9bbc-4b67-97a8-a32a651f3cac:number:4",
+        "gradingBasis": "edcab76c-e14e-471f-ac1f-fe817567dc55:string:GRD",
+        "includeInGPA": "a7d54ba9-b55e-4ad5-a514-d264e4f4162d:boolean:true",
+        "reportNo": "5c4c9c76-f859-4c8c-8a9f-84a3314032f6:number:1",
+        "semester": "bad8f94b-d3bd-492d-9f8a-35da0f945663:string:2310"
+      },
+      {
+        "name": "c705d982-9758-48c1-b362-1796cfcc9a5b:string:Probability and Statistics",
+        "courseCode": "aa97a905-1a20-46db-b0c8-b68a75d7170c:string:ST2334",
+        "grade": "1707f8ef-13ec-4a03-aab2-0d09898b5e0d:string:A",
+        "courseCredit": "6f0c91ce-9361-457f-90bb-97f9e84b5e89:number:4",
+        "gradingBasis": "a4064d3a-55c6-42d0-bb8d-c547b1a55200:string:GRD",
+        "includeInGPA": "57cf806f-0e22-41f4-8732-14cf80d06ec8:boolean:true",
+        "reportNo": "459a2745-cc7c-4f10-8ead-3f24af682831:number:1",
+        "semester": "ff8e7fe7-6cbd-44a6-bd50-e53d047deb34:string:2310"
+      },
+      {
+        "name": "0eb79197-d847-419a-ad16-5fb906d9b250:string:Journey of the Innovator",
+        "courseCode": "296116ca-2798-4ff3-bdf9-9d99baae0b37:string:CP2201",
+        "grade": "e1f3287e-e96d-4334-a063-8de3a9ad1720:string:CS",
+        "courseCredit": "6aa1f46e-9673-44b8-b4c4-2ebc77d2a712:number:2",
+        "gradingBasis": "6113b01f-7bf1-4b0e-9bd3-4aadd7000109:string:CSU",
+        "includeInGPA": "8cc1fc24-4d66-4e7b-bf5d-09a19a73ca38:boolean:false",
+        "reportNo": "bfcdc962-0876-49ad-8d8e-0e2729979be1:number:1",
+        "semester": "500f2ffa-20a0-494f-9d0a-1befdae2a6bd:string:2320"
+      },
+      {
+        "name": "3d280d6e-f325-4a93-8b1b-873e11bf68c2:string:Introduction to Computer Networks",
+        "courseCode": "87a1be66-6242-44bd-9cc3-1cca239a495f:string:CS2105",
+        "grade": "feaa38d2-8f12-49ec-90f9-e76e949df282:string:A-",
+        "courseCredit": "0050ad1a-0159-4798-8965-bb34349ea7b5:number:4",
+        "gradingBasis": "1831e096-4850-44e4-83e3-de56bbbbc133:string:GRD",
+        "includeInGPA": "9bc1bbc1-15dc-4ae1-b6a9-5e0a05423162:boolean:true",
+        "reportNo": "fc5cf58b-485d-467d-a3dc-954a203aa1c7:number:1",
+        "semester": "c47a86b2-41e7-4d10-9a7d-7db7e8e90005:string:2320"
+      },
+      {
+        "name": "4546b700-7425-44cd-b2f0-94f6e65fce97:string:Introduction to AI and Machine Learning",
+        "courseCode": "e311f290-b4fc-4a62-bc18-7fbb228fc92c:string:CS2109S",
+        "grade": "5046b24e-535d-4a0c-81b4-dd9b66a58ff1:string:A-",
+        "courseCredit": "b8b8a4be-307c-4bd9-8c67-10ae2cf3d084:number:4",
+        "gradingBasis": "3eae8c60-e3f9-497e-bc58-4cad0e37bcd2:string:GRD",
+        "includeInGPA": "9eff53ad-bd38-42d9-b31f-5b08c3929970:boolean:true",
+        "reportNo": "49e286c8-3775-4548-9ce7-0577c08ff26e:number:1",
+        "semester": "356e5280-73af-480c-93f3-29bc36ac2e75:string:2320"
+      },
+      {
+        "name": "65f5a4c6-7a0c-4a30-bfa5-60598c743d7e:string:Software Engineering on Modern Application Platforms",
+        "courseCode": "e47bc418-40c4-40d0-af9f-cf67231144ba:string:CS3217",
+        "grade": "9236e351-c394-4710-8607-6dc38a477baf:string:W",
+        "courseCredit": "668f0f10-a00d-46b9-a4e2-b51edb66da3d:number:5",
+        "gradingBasis": "d911a232-6dd5-4315-ba4f-5c3923cd8b98:string:GRD",
+        "includeInGPA": "3586ce23-2d79-4939-ae1d-cfcc358339f4:boolean:true",
+        "reportNo": "82c690f0-a957-42a2-8384-00336ff0fbea:number:1",
+        "semester": "720d5390-bbe1-4466-b63c-1f171e5d0602:string:2320"
+      },
+      {
+        "name": "66157d34-2a40-4788-8e9d-139e275a1819:string:Database Systems Implementation",
+        "courseCode": "ec52054e-b500-4b5d-b4e7-d84f997d436a:string:CS3223",
+        "grade": "4ad1fb41-29be-4b62-8ddb-88476e0282a9:string:B+",
+        "courseCredit": "28c883f8-9715-43c3-b378-32591dea183e:number:4",
+        "gradingBasis": "666fd691-2e9e-4a6e-9ea7-08d571dbb323:string:GRD",
+        "includeInGPA": "b4229257-9c88-4cbb-a52d-99ed184738e6:boolean:true",
+        "reportNo": "5157e20c-1802-4a3c-ab3e-c7a3c2caece0:number:1",
+        "semester": "5c21e319-a77e-4a47-88c1-8f700460ada0:string:2320"
+      },
+      {
+        "name": "8aa137e8-1fc3-47f2-8207-de7f3f803392:string:Design and Analysis of Algorithms",
+        "courseCode": "bf1c1562-cb61-41b9-a255-710035c63022:string:CS3230",
+        "grade": "e06c3912-715f-485b-a87c-7122ba44d1e4:string:A",
+        "courseCredit": "818dbd2f-907a-4ae4-bca4-0ca633a8e4f2:number:4",
+        "gradingBasis": "9398378b-6d75-44ce-af5b-65fa66061587:string:GRD",
+        "includeInGPA": "2b38a352-ff1c-4c30-a04e-0a89cd433a53:boolean:true",
+        "reportNo": "0d8996c7-a086-4f6a-93e9-45aaad5c2709:number:1",
+        "semester": "a13c0782-c94b-4638-a7ef-6182a890c019:string:2320"
+      },
+      {
+        "name": "4d997344-4d60-4a74-a845-5a9b00312c96:string:Design and Make",
+        "courseCode": "e59fada3-81ce-4977-b74f-6efa1a770b89:string:EG1311",
+        "grade": "7f10dd09-2c12-4546-bcb8-46dc3010cd7c:string:A-",
+        "courseCredit": "cf9b56bb-c180-49b3-a83b-68dddf441523:number:4",
+        "gradingBasis": "987c458a-66bd-4740-86d1-37cc91bd36da:string:GRD",
+        "includeInGPA": "137da168-1c45-465f-816b-c19dfdef1f8a:boolean:true",
+        "reportNo": "eb6d386e-cd71-4250-a44c-e080361ed67f:number:1",
+        "semester": "08d1d23e-524a-4d24-92a7-64bcaeb58d05:string:2320"
+      },
+      {
+        "name": "a3d60a4f-f914-4354-b08d-b878be7e9c31:string:Advanced Technology Attachment Programme",
+        "courseCode": "1c2edee7-b395-4b59-aa82-2f1c441ed457:string:CP3880",
+        "grade": "1cd6a7c1-e577-4fae-8097-dcfbc20cb0f0:string:IP",
+        "courseCredit": "6ee2b863-fc7f-4252-9999-5158c6b0909f:number:12",
+        "gradingBasis": "2dac9630-f6c3-4f1c-93a0-f3c2504385ad:string:CSU",
+        "includeInGPA": "fed7f30f-9312-45ca-84e1-60538e842fbd:boolean:false",
+        "reportNo": "61091536-f913-4cc9-88a1-09dafbf85c05:number:1",
+        "semester": "c1755118-9fba-430f-b2ca-57ccfb669d81:string:2330"
+      },
+      {
+        "name": "ad66b797-ca20-4030-b1b6-e20175bc1630:string:Advanced Technology Attachment Programme",
+        "courseCode": "d63b1632-d81b-4bd5-adcd-8a8673dbba07:string:CP3880",
+        "grade": "f6db7053-6716-4eaa-86ec-1fedab8f7c7f:string:IP",
+        "courseCredit": "f3b2c586-6f94-4f44-9251-61005d59e828:number:12",
+        "gradingBasis": "011f4ed0-da1b-4b5c-a56a-eb3a2fc812de:string:CSU",
+        "includeInGPA": "8df5e0ba-4af4-4928-a069-07d9d20a0559:boolean:false",
+        "reportNo": "0652939a-736f-4d69-9ce6-9558984ea0d1:number:1",
+        "semester": "0b1ba988-b224-47e8-b99b-900c5e94fa16:string:2340"
+      },
+      {
+        "name": "dd219546-be42-402d-bc8a-f45fd0a5af10:string:Advanced Technology Attachment Programme",
+        "courseCode": "912c7065-6ffe-4f8a-a7b0-7bcfc0a2e198:string:CP3880",
+        "grade": "264c6a50-f056-42b2-8de4-eeb42a86547b:string:CS",
+        "courseCredit": "b4ee2dde-2d39-4c9c-8590-1c5ad30683e6:number:12",
+        "gradingBasis": "d570f8ec-9e61-4a91-ac96-8247b1390cc4:string:CSU",
+        "includeInGPA": "d98c7f74-d2ad-4c44-a3b6-ef3fa7b6f282:boolean:false",
+        "reportNo": "ad4e0a01-fd79-4352-98fe-e8be733a06cc:number:1",
+        "semester": "5edb2506-4f8a-497e-a007-730f7cf1a8ac:string:2410"
+      },
+      {
+        "name": "be04a097-4799-4488-84e4-3088aa9ba7ea:string:Parallel Computing",
+        "courseCode": "9a8240fd-1608-4d49-86c3-2bd9e3319f08:string:CS3210",
+        "grade": "f7fbd226-e667-419f-9cda-9720d823d444:string:A",
+        "courseCredit": "094c0915-b0f6-4f9f-b736-38399ab4f15f:number:4",
+        "gradingBasis": "c855e31c-714a-4a71-a101-c28313e4058d:string:GRD",
+        "includeInGPA": "5f21a9b2-be41-45c4-8add-a9470ab9e027:boolean:true",
+        "reportNo": "a6265b99-485b-4750-9211-0ebf10c5a6ef:number:1",
+        "semester": "216ecf36-d608-47a8-8a43-68ba0a54ed77:string:2410"
+      },
+      {
+        "name": "899bd8f5-ce14-4bc8-a3f5-e5fcf7fb695e:string:Big Data Systems for Data Science",
+        "courseCode": "2354e55b-413c-4781-91bf-d0283dd38b96:string:CS4225",
+        "grade": "e0933eca-95fc-4794-8993-9697b0664899:string:A",
+        "courseCredit": "97be8346-3116-452c-85be-a59f00ca0461:number:4",
+        "gradingBasis": "b6b77798-8501-4867-95bf-e2df8a7aa4c9:string:GRD",
+        "includeInGPA": "4d7c1e8b-c5c0-4c36-a878-958aab7f368a:boolean:true",
+        "reportNo": "bf9b1903-54b4-4c96-837e-ad253e12d144:number:1",
+        "semester": "c0a88f12-8087-40e5-be91-152f94e4b365:string:2410"
+      },
+      {
+        "name": "36c44022-3812-4b70-a837-938764c216af:string:B.Comp. Dissertation",
+        "courseCode": "843994e3-0d94-488d-8f58-5a8e2bb6fc0d:string:CP4101",
+        "grade": "73cb1f22-3da6-4155-9900-e86b11a86cf0:string:IP",
+        "courseCredit": "26951f9f-dd41-46e4-ad78-5992b7806ff2:number:12",
+        "gradingBasis": "0dadc25f-3db7-4bf4-b980-d21ac97bf2e5:string:GRD",
+        "includeInGPA": "b623e928-b021-469d-975e-9e84a5b1f072:boolean:true",
+        "reportNo": "45c14fd4-bd1a-455d-bfa6-48b1cb7d33ae:number:1",
+        "semester": "849ffca3-5640-4a23-b977-aaacc6d92c8b:string:2420"
+      },
+      {
+        "name": "482c51bc-a14a-45d1-93d6-9116392fa0cc:string:Parallel and Concurrent Programming",
+        "courseCode": "79f033b2-17fe-43a9-b52f-0bb16f5eee85:string:CS3211",
+        "grade": "8d6ba693-fc48-42a7-a33f-d90fa7c5a75f:string:A-",
+        "courseCredit": "7d90416b-3831-42f2-a7c7-a8c19b51e6e3:number:4",
+        "gradingBasis": "6ac45a51-9fdf-4abe-b626-955cb9a442cd:string:GRD",
+        "includeInGPA": "651bc45c-bf66-47ea-b970-702a69e838ac:boolean:true",
+        "reportNo": "11941507-fe59-49ed-abfe-e1c7cec2c8ad:number:1",
+        "semester": "9f60a190-f272-4376-bc7e-121fd34f5246:string:2420"
+      },
+      {
+        "name": "ea6fc01f-9da7-492c-a7b8-fd320f43f686:string:Thematic Systems Project I",
+        "courseCode": "fa7c10dc-f1fc-42d3-8bcf-cce6f2184346:string:CS3281",
+        "grade": "0efe7712-4701-4ee1-9bc5-46b46edf0a58:string:A",
+        "courseCredit": "3caf1f7d-40bc-45d4-99b8-16fb724716e8:number:4",
+        "gradingBasis": "b3fb7e4e-3046-4c36-805d-c40ef1ef2140:string:GRD",
+        "includeInGPA": "b2235d75-e125-485d-bc2a-33b1ea947f1a:boolean:true",
+        "reportNo": "fafe33f0-21f3-476c-9ead-bef0381303df:number:1",
+        "semester": "6c47651e-afef-461a-aec7-817982d14a51:string:2420"
+      },
+      {
+        "name": "196d114f-43bc-4c13-9f1b-d9c94dda5434:string:Parallel and Distributed Algorithms",
+        "courseCode": "3b2ae5ab-0722-4ca3-9ddf-4d43f04a149e:string:CS4231",
+        "grade": "0cf4c701-4cf9-4049-9af0-9db92dbdf3ae:string:B",
+        "courseCredit": "90fd12ff-9a7e-4d35-933b-085b6dd457a3:number:4",
+        "gradingBasis": "c0891b56-0154-463d-a097-25241464900c:string:GRD",
+        "includeInGPA": "60bcf878-0c04-465d-bf5b-52e296702ef4:boolean:true",
+        "reportNo": "752c3c1f-52e2-4d71-81a5-7e271abb4b4d:number:1",
+        "semester": "005f0152-2c27-4f4c-90e5-826991df3398:string:2420"
+      },
+      {
+        "name": "5dee0326-0fdf-4ed1-958e-53e08c5556d2:string:The Nature of Language",
+        "courseCode": "52d8088a-f211-439b-ae77-fa0f3bb6cada:string:EL1101E",
+        "grade": "145c18c8-e54b-4e9d-96f9-cbd9d5e4f414:string:S",
+        "courseCredit": "e9dd5c00-a86f-4be5-ab32-567e58387188:number:4",
+        "gradingBasis": "406e63d9-a258-4275-8e1e-4f70c1b4b228:string:SNU",
+        "includeInGPA": "bb55c765-3bc1-48a8-b8ae-8f6489a75f73:boolean:false",
+        "reportNo": "a5028b3f-e9aa-426c-a4c0-6aa0acee6fee:number:1",
+        "semester": "2a4c0bf7-434a-4352-914d-33bf66ea89e0:string:2420"
+      },
+      {
+        "name": "1a8b7661-90fe-45bb-b74a-9a2ee53e5791:string:Social History of the Piano",
+        "courseCode": "e858fa09-7cc5-4239-9516-abfa13866b29:string:GEC1023",
+        "grade": "9f61b45c-a837-48b9-a262-944fd4a272f8:string:S",
+        "courseCredit": "27ff64c5-fcc5-4032-bd0e-9a74155485e9:number:4",
+        "gradingBasis": "73405958-85ca-4804-a219-35141514fd6b:string:SNU",
+        "includeInGPA": "ff0d3e83-fa65-453d-902e-75b743e769f5:boolean:false",
+        "reportNo": "129e537d-cac7-44be-b8bf-cae7d47a78da:number:1",
+        "semester": "21973bfa-82d6-4713-bd21-abdc905d8cb1:string:2420"
+      },
+      {
+        "name": "98768652-e78d-4ddb-af2b-61e8c7752ae9:string:Singapore: Imagining the Next 50 Years",
+        "courseCode": "c126d7af-7600-40e1-9f88-1ae999164397:string:GESS1025",
+        "grade": "35cbb6fa-d6c1-4b91-aaa1-8c4353caeaaa:string:CU",
+        "courseCredit": "48fca24f-c1a4-4eb6-a315-4c951425eb4f:number:4",
+        "gradingBasis": "81ab2f99-ca65-443b-8225-d0855782392d:string:CSU",
+        "includeInGPA": "f94de845-f180-4855-8630-c0b80ef4ca9e:boolean:false",
+        "reportNo": "4c84c99c-4b87-4e60-8c43-ba1596a1ce85:number:1",
+        "semester": "2fa0bf40-181a-4c24-bff1-52804a3b4a64:string:2420"
+      },
+      {
+        "name": "04180fd6-cd4b-4d81-a52c-10df48d2bedf:string:Multivariable Calculus",
+        "courseCode": "0a8fd5ab-5071-4604-9968-5ccfb61946ee:string:MA2104",
+        "grade": "5a52a16e-16f6-430a-9c85-dbfc1dc0846f:string:W",
+        "courseCredit": "5d568051-2d27-415d-ac07-3f5c9693f964:number:4",
+        "gradingBasis": "65ffcd25-1b74-42d6-ac16-c3efa34a42c7:string:GRD",
+        "includeInGPA": "b9bfe9c4-a471-43c1-94f7-77276678b036:boolean:true",
+        "reportNo": "3d421bad-9fa0-44ef-8e5d-c98bf8003337:number:1",
+        "semester": "39a4cbcc-fbd5-434c-b7ca-e60a7e7ed64a:string:2420"
+      },
+      {
+        "name": "62c9caf0-42b2-4537-98ae-911a041f067d:string:Internship",
+        "courseCode": "bc3600a0-fb76-4fd5-ba8d-9243b72a68a9:string:CP3200",
+        "grade": "bcb250ed-78fd-4506-81b0-ab34d225b3b6:string:IP",
+        "courseCredit": "2a195b82-493e-4aaa-aec2-466afed4f2fc:number:6",
+        "gradingBasis": "8e76f221-7402-4a17-8483-159fc78efc66:string:CSU",
+        "includeInGPA": "2d20a78d-5aac-449d-ac3d-68cd16221d36:boolean:false",
+        "reportNo": "aa113e2a-5e7b-4d9f-8169-e22d74973ce9:number:1",
+        "semester": "1971fee4-3ab2-4c4f-902e-7d0e797eb1e1:string:2430"
+      },
+      {
+        "name": "80b5d8af-7562-4dfe-abd9-d2c9414615e1:string:Internship",
+        "courseCode": "3eebc876-01b1-4436-9f9c-e3a9ff9f999c:string:CP3200",
+        "grade": "49bef228-7c2a-4cc4-89bd-d5f642d49721:string:CS",
+        "courseCredit": "87f54a34-c021-48a3-9ef0-dc727abce157:number:6",
+        "gradingBasis": "2cad56df-414d-45a6-aa98-8868cea9a303:string:CSU",
+        "includeInGPA": "a396f0aa-a314-486a-9623-f63cf49b92fb:boolean:false",
+        "reportNo": "4f9889bc-2135-4d70-b817-ae6be717a0e1:number:1",
+        "semester": "5e47df73-cbd0-4d76-b1de-f8e5383ed321:string:2440"
+      },
+      {
+        "name": "6f1a486a-6e27-48aa-b1b2-79b2274b50c7:string:B.Comp. Dissertation",
+        "courseCode": "e2eca8db-5e3a-4e3e-a6fe-1ce8e37335ad:string:CP4101",
+        "grade": "a61d5cd4-3b52-41f9-8ce5-ae8da7511a59:string:A-",
+        "courseCredit": "449dac8c-6040-45f0-a3bd-b0627f5561a4:number:12",
+        "gradingBasis": "a1fd2602-2ab3-4886-a979-d130c5007635:string:GRD",
+        "includeInGPA": "cf81e65f-1e4b-480f-8d70-148721fd3f1e:boolean:true",
+        "reportNo": "6276884f-be9f-4bb0-9e01-e14b5a63d040:number:1",
+        "semester": "1033f8d7-dd3d-4c65-94fd-b3bd30c979b8:string:2510"
+      },
+      {
+        "name": "4c08c953-e360-493d-a440-17ace3661bfd:string:Multi-core Architectures",
+        "courseCode": "acda8b9d-f43e-4803-a355-6a6d67c7b683:string:CS4223",
+        "grade": "b2578538-41c8-4097-9ff7-f158a885ed61:string:C",
+        "courseCredit": "aa165f60-8c74-4601-947f-215cb2b6a5f4:number:4",
+        "gradingBasis": "3e77e799-b788-4984-89d5-8dd0eb86d568:string:GRD",
+        "includeInGPA": "4f97bdab-9a06-4c1d-bbe5-f6d05dbf0bce:boolean:true",
+        "reportNo": "762b5dbc-a6b2-4252-90a9-204aaf46a45b:number:1",
+        "semester": "d56fa51f-467c-45b3-9488-f9fb6c472526:string:2510"
+      },
+      {
+        "name": "7cce099f-0e7a-4f2b-9dfe-f563c7b80958:string:Everyday Ethics in Singapore",
+        "courseCode": "adcd744d-fac7-497a-834f-fe5535a2723f:string:GESS1029",
+        "grade": "aef4053e-41d3-4789-a0cb-805cf7305480:string:A",
+        "courseCredit": "62aabe49-7f3e-45dd-b626-58d5ab3bdf18:number:4",
+        "gradingBasis": "2b9b1ff4-0b9f-47fd-8282-3ebfb70887ac:string:GRD",
+        "includeInGPA": "57ed874d-719e-4ef3-8b0f-4a5cd8ca2094:boolean:true",
+        "reportNo": "16ddf4c7-9e65-4274-b33e-da135dd0d5d7:number:1",
+        "semester": "a1a22e2c-5174-43ad-b231-c057f2a7a860:string:2510"
+      }
+    ],
+    "additionalData": {
+      "degreeScroll": [
+        {
+          "degreeTitle": "ef31be7f-851c-4d19-94eb-1b4baab4e784:string:Bachelor of Computing (Computer Science)",
+          "dateConferred": "dde4efaa-4598-408b-94d6-db2719d780bc:string:2026-01-31",
+          "honours": "8ab247c8-024e-4e3d-8495-498a5a70ba6e:string:Honours (Highest Distinction)",
+          "degreeCode": "64e44bb2-188c-4ecb-9a6b-f9af01eb670d:string:B031003",
+          "type": "b57031ac-97f4-41d1-b2a0-c35500e70105:string:K1A (GENERAL)"
+        }
+      ],
+      "images": {
+        "PRESIDENT": {
+          "data": "acda9713-e7a8-4718-990f-61cca66447b6:string:data:image/png;base64,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",
+          "width": "d5fe13e0-28f0-4a22-aa03-672c3cab7d79:number:2.5",
+          "height": "9d9611e5-41fd-4146-ae36-23bb77670a18:number:1.48",
+          "unit": "b30c7339-4893-4c22-81b4-cfbcca18b0f2:string:CM"
+        },
+        "TRUSTEES": {
+          "data": "789bbc57-c6e8-4977-a147-42a263d263bd:string:data:image/png;base64,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",
+          "width": "94b52390-c472-4838-85b1-700787f46add:number:5.31",
+          "height": "a8411e40-71b1-42cc-9d2b-c52d2e68c04c:number:1.15",
+          "unit": "ac26c8a8-778c-4fb2-b7de-5502c43ea464:string:CM"
+        }
+      },
+      "transcriptType": "86460b78-4cda-4d4a-8ed6-65baff30f67e:string:UGOF",
+      "transcriptReq": "3b02e4b3-3ef5-4764-be9d-91f653d91938:string:002387367",
+      "transcriptGroup": [
+        {
+          "name": "12c18dce-b57a-4830-846c-11e540488e50:string:2210",
+          "term": "9bfad2be-c8ba-43c0-ad93-af496cbea6f5:string:2022/2023 Semester 1",
+          "formOfStudy": "f7536b09-7738-48c5-a0d6-de9aec1e32ff:string:ENRL",
+          "fosPrintArea": "248870e1-b7df-48d7-ba19-d65b65fcf3af:string:ND",
+          "summary": [
+            {
+              "programName": "b0153455-48a8-4e77-a09a-d56860caa4df:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "34db913b-b687-4b9d-8f0b-fddef7f072c4:boolean:true",
+              "disableGPA": "ad25bbc3-304f-4bd4-994b-95a0027756f0:boolean:false",
+              "GPAName": "f68489b3-5391-4e9e-9d15-2f521a9891b3:string:Grade Point Average",
+              "GPA": "ee50b0b8-7780-4f35-a4ba-3fe924a486fc:number:5"
+            }
+          ],
+          "reportNo": "5058a009-3196-4574-93bc-73660458ef8f:number:1"
+        },
+        {
+          "name": "c97657f2-b48f-4876-bb7b-6db1e0023cce:string:2220",
+          "term": "b0e0b96e-41be-4472-b040-4956c9624b25:string:2022/2023 Semester 2",
+          "formOfStudy": "f2e06a6e-8f5e-4291-99a1-4e147ba3222b:string:ENRL",
+          "fosPrintArea": "addc5e2e-9ffa-4cce-bca0-d6a33b98c9ce:string:ND",
+          "summary": [
+            {
+              "programName": "42c51b84-dfb1-4ea3-9661-853108260b4f:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "60405467-3ee0-4da7-8b43-6faca2743d23:boolean:true",
+              "disableGPA": "6a3b9b0e-348b-4c00-8643-e50612705614:boolean:false",
+              "GPAName": "4904c59c-3123-4a05-95a3-c6b188ea8501:string:Grade Point Average",
+              "GPA": "0963a93a-3d0b-49a0-b6b4-dd592e6917cb:number:4.86"
+            }
+          ],
+          "reportNo": "cf8013a8-1f6c-43f8-a5cc-d2c8e297d5cb:number:1"
+        },
+        {
+          "name": "6620cded-e722-42fb-b52c-3622a649bbaa:string:2230",
+          "term": "3454da14-b496-4eb6-b443-5eb6e3346498:string:2022/2023 Special Term(Part 1)",
+          "formOfStudy": "5899e72f-0d0e-4be6-b843-073ed68513f1:string:ENRL",
+          "fosPrintArea": "af67fab0-6e15-4cb5-9c40-ff60852e822e:string:ND",
+          "summary": [
+            {
+              "programName": "16ffef3a-ea91-42bb-a88f-d0928871e67c:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "b234623c-53e5-4a64-9739-1c5991481f99:boolean:true",
+              "disableGPA": "f9a78c79-f808-4015-a7b0-9d3f6948f33d:boolean:false",
+              "GPAName": "e9425887-8933-49aa-afef-36db05c2c6f5:string:Grade Point Average",
+              "GPA": "7b5473c8-e935-469e-a944-20dd3cde3b3a:number:4.86"
+            }
+          ],
+          "reportNo": "bff33232-f312-4d6d-9e52-fc7690d58468:number:1"
+        },
+        {
+          "name": "82c306fb-04f2-4ab1-aaf2-36f8d7dc95c8:string:2240",
+          "term": "62fe7a95-27b5-46be-ae80-a36003e1641c:string:2022/2023 Special Term(Part 2)",
+          "formOfStudy": "9512428a-c8bb-40ae-93e2-8ab008912ebb:string:ENRL",
+          "fosPrintArea": "f2a480a4-d076-475f-992f-7f0875fd81d6:string:ND",
+          "summary": [
+            {
+              "programName": "8c38011d-1d95-4f8f-a583-1e58b583a352:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "286e34ab-f145-45fb-a044-35ca332f2cf5:boolean:true",
+              "disableGPA": "17cdc77e-edc8-4637-8cfc-aa7dc07ea434:boolean:false",
+              "GPAName": "71451fee-a08c-4119-a3ca-3382ead8cd1c:string:Grade Point Average",
+              "GPA": "8e2d3dc6-7a69-46ea-9238-8d77ae321b74:number:4.86"
+            }
+          ],
+          "reportNo": "327d8400-63e6-4d7c-9b0a-89a5f7915c29:number:1"
+        },
+        {
+          "name": "14db04d2-8542-4442-b3bf-1b2edba9b032:string:2310",
+          "term": "2b90ab67-0733-4aa0-a33a-8f2d0fa6047e:string:2023/2024 Semester 1",
+          "formOfStudy": "dcfd528f-1db3-4ee0-85a7-10f104455ec4:string:ENRL",
+          "fosPrintArea": "1003c9a3-7d58-48e5-9ba9-2eee95709cd9:string:ND",
+          "summary": [
+            {
+              "programName": "7960ee52-a243-4581-9dde-84395f77bd89:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "b33e725c-cc2c-4fd0-85d6-d639012f8f3f:boolean:true",
+              "disableGPA": "51b83124-72c5-4027-a853-8ff29aa796f8:boolean:false",
+              "GPAName": "4802e123-d6ef-4af1-ad71-4d58935fe68b:string:Grade Point Average",
+              "GPA": "344466bf-d01d-4198-9c69-857298e61d37:number:4.87"
+            }
+          ],
+          "reportNo": "0e049f84-1a27-4e6b-97d1-eecc57ea7d27:number:1"
+        },
+        {
+          "name": "69713d22-6935-4ffe-b27c-549a61a0076e:string:2320",
+          "term": "52c825d0-c0ae-470d-950f-bd8c9faa0a7f:string:2023/2024 Semester 2",
+          "formOfStudy": "ff4dc040-780b-4d39-aa88-14c30a1f6d23:string:ENRL",
+          "fosPrintArea": "a6d1adfb-4b7d-43d7-92e6-a6a8d831d64a:string:ND",
+          "summary": [
+            {
+              "programName": "fd259223-4f74-4beb-8426-6b25ab89608c:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "310e6c06-6f24-44ca-9744-05d0320c5544:boolean:true",
+              "disableGPA": "87839e29-5b34-4716-ab6a-9f37ac75dc0e:boolean:false",
+              "GPAName": "ec1bc33a-06cb-4a50-b4ad-d47fc803a115:string:Grade Point Average",
+              "GPA": "3eea387a-f039-460a-8276-6f7724759999:number:4.75"
+            }
+          ],
+          "reportNo": "d6c257bd-9be8-4f19-a722-b477d3b27853:number:1"
+        },
+        {
+          "name": "7fb056bc-61de-4467-b6dd-059a4bd360c6:string:2330",
+          "term": "e4842c7c-fc38-4852-be27-d62eb70ed2b8:string:2023/2024 Special Term(Part 1)",
+          "formOfStudy": "83d35f44-7ac7-40b7-ba78-6edfe77297a2:string:ENRL",
+          "fosPrintArea": "f4b0076b-1abc-4fd9-a235-2521174e0e1e:string:ND",
+          "summary": [
+            {
+              "programName": "6e0ca8c5-92fb-4f96-99b1-68c5206cd48d:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "5a6bdd72-2d82-4487-9439-d36c23587639:boolean:true",
+              "disableGPA": "b1cd77dc-cd72-4a78-9896-5d08172bebe1:boolean:false",
+              "GPAName": "fd9df393-1d21-4446-8138-5ce2bf974825:string:Grade Point Average",
+              "GPA": "edee588b-a597-4a3f-967a-d7e8b32c9095:number:4.75"
+            }
+          ],
+          "reportNo": "054ffc1a-75e5-4c17-9e5d-9c22e598264b:number:1"
+        },
+        {
+          "name": "b6104cbc-3148-4924-91de-4a6e0a7d7f7a:string:2340",
+          "term": "65064310-aac5-42f6-9242-4fe00f00678f:string:2023/2024 Special Term(Part 2)",
+          "formOfStudy": "741cb9c6-2578-4834-bbec-80a1b6c757f1:string:ENRL",
+          "fosPrintArea": "1e2b1db9-1e54-455a-9b23-912cc574d8a2:string:ND",
+          "summary": [
+            {
+              "programName": "40ae5bb5-83d1-4a44-bca7-78219f8a8faa:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "b4144c21-bf38-44e4-aee7-0b0476d93352:boolean:true",
+              "disableGPA": "a84a63ba-7ec8-457b-bd26-fbf9414a685d:boolean:false",
+              "GPAName": "56dedfa8-5c18-47f1-9217-cf45451c2fb3:string:Grade Point Average",
+              "GPA": "1dd6787d-ad05-4b11-8bd8-214061a40f64:number:4.75"
+            }
+          ],
+          "reportNo": "02b8b02d-2979-4e28-a1ae-827086328b06:number:1"
+        },
+        {
+          "name": "43b666b6-3869-496e-bbed-887893a31e88:string:2410",
+          "term": "328f5df3-23c8-475e-a73b-3a9a37226e42:string:2024/2025 Semester 1",
+          "formOfStudy": "fa4d6885-039c-4cf6-bed4-acfe5dbf1b30:string:ENRL",
+          "fosPrintArea": "89971f5a-0133-495b-bd87-52cb7f2751f7:string:ND",
+          "summary": [
+            {
+              "programName": "a2570514-6db2-445d-933a-a1a8a167b8bd:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "a618053b-2d1c-40aa-b0ad-b3ceaa6852c2:boolean:true",
+              "disableGPA": "28896f9f-c56a-4fbc-8ba9-37713489ad5c:boolean:false",
+              "GPAName": "cf89ae34-4848-4c23-bd20-2e59bc829284:string:Grade Point Average",
+              "GPA": "27c47a0e-9d3a-4cb2-8b42-eb151aebeccc:number:4.78"
+            }
+          ],
+          "reportNo": "fdec6f1c-d2d0-4b42-921f-b3888b1f5019:number:1"
+        },
+        {
+          "name": "c40ca576-a183-4979-9553-863bd29c413e:string:2420",
+          "term": "ab989ecc-ad54-4bf5-bdbc-c839b90c61c0:string:2024/2025 Semester 2",
+          "formOfStudy": "a204b756-0be7-43c2-a05f-d16e696f28f5:string:ENRL",
+          "fosPrintArea": "70f6f80d-c309-45fd-b1a1-baef13b172df:string:ND",
+          "summary": [
+            {
+              "programName": "31e50076-dace-4910-adb1-a7db700907ea:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "4b153232-115e-4b82-9e29-715b71f57173:boolean:true",
+              "disableGPA": "c6e67a42-0550-47c6-974d-acc87c7d8e32:boolean:false",
+              "GPAName": "db38c724-45f3-4f76-9506-c5853a87586c:string:Grade Point Average",
+              "GPA": "d937927f-7e45-4ae1-b817-827878c7e271:number:4.72"
+            }
+          ],
+          "reportNo": "eafa31e0-53db-4f87-bf50-767a3da1771d:number:1"
+        },
+        {
+          "name": "ace764c5-c598-4029-bd0f-066b6de51173:string:2430",
+          "term": "d44f8764-7650-4aff-b909-ebafef7acb5a:string:2024/2025 Special Term(Part 1)",
+          "formOfStudy": "cea79924-eb2d-42d6-9621-fd3da07f73e9:string:ENRL",
+          "fosPrintArea": "84a63860-d023-4f40-9d6d-77d20c53e706:string:ND",
+          "summary": [
+            {
+              "programName": "78d2f5ea-f1bf-4de8-9996-d1ff6255323d:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "edeceadb-3afd-4af6-9a6f-a01f821d595d:boolean:true",
+              "disableGPA": "c83a22fe-06d3-4b39-92ce-8282f66913d4:boolean:false",
+              "GPAName": "a43e1d54-6246-4bf9-b74e-fe0f91abe9c1:string:Grade Point Average",
+              "GPA": "700bf123-054e-4e65-8b80-fd74794abdf3:number:4.72"
+            }
+          ],
+          "reportNo": "1543cb94-9ef0-412c-9c0c-0bdbcf0e64d7:number:1"
+        },
+        {
+          "name": "15baae7b-b80c-4d9c-bc05-0cc87cae5917:string:2440",
+          "term": "9ec99226-7f5e-4b02-9d0f-0b7fbc6e9b84:string:2024/2025 Special Term(Part 2)",
+          "formOfStudy": "c1a4ddba-3a3a-4cc7-bedf-259271aaa159:string:ENRL",
+          "fosPrintArea": "c1f5a9ce-7676-4a7d-a638-8b5507c1ff92:string:ND",
+          "summary": [
+            {
+              "programName": "569562ef-70d7-4722-b351-ee7c87f8c19e:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "0b139197-6324-4d5c-9194-45f7eaddf090:boolean:true",
+              "disableGPA": "b9f6be3a-84c9-4790-8aae-0a48a97eb547:boolean:false",
+              "GPAName": "d20b0a40-ed5a-4d72-a165-8efae9559766:string:Grade Point Average",
+              "GPA": "32bec46c-20c1-44d3-b47a-bcf40368170a:number:4.72"
+            }
+          ],
+          "reportNo": "efab2468-9bd3-452b-b7f7-f403f9ef5ad6:number:1"
+        },
+        {
+          "name": "9ade6960-f9b8-497f-b927-e74c69ec2285:string:2510",
+          "term": "2b823dcb-a65d-4543-8ecd-4a023e7151d0:string:2025/2026 Semester 1",
+          "formOfStudy": "0b26676b-4f03-494a-af64-b8c0c1f15b80:string:ENRL",
+          "fosPrintArea": "79097c87-a4c5-444a-81e6-5a35b9900eff:string:ND",
+          "summary": [
+            {
+              "programName": "4e80931f-b693-445c-9568-6e9509849bf8:string:Bachelor of Computing (Computer Science)",
+              "includeInGPA": "72e542ee-dff7-4ae3-9dae-aa15e480ffda:boolean:true",
+              "disableGPA": "6e9a7277-664f-4549-b2c3-65220643aee7:boolean:false",
+              "GPAName": "d994a737-45f6-40e5-9287-ddf9a1d29764:string:Grade Point Average",
+              "GPA": "2e42fbcf-7ef4-4174-9542-97b299cdb60e:number:4.6"
+            }
+          ],
+          "reportNo": "0bf9d240-7faa-4165-b865-599b649456a5:number:1"
+        }
+      ],
+      "programData": [
+        {
+          "programCode": "8974e78f-7db9-4cef-8539-52ac6529127b:string:B0310",
+          "programName": "968a5b0b-e68d-4c60-b2b8-f9d2be5bd580:string:Bachelor of Computing (Computer Science)",
+          "statusCode": "af2ab623-5d86-492f-8346-825d5fd8ce1e:string:CM",
+          "statusDescription": "b5450441-a0a5-445a-add2-cc8444e3dc74:string:Completed Programme",
+          "effectiveDate": "9bf97534-4285-4961-b410-d4a168d08008:string:2026-01-31",
+          "admitTerm": "bc0784a6-7884-490d-8026-6e27222b8bb7:string:2210",
+          "reportNo": "493771a0-4edf-4647-a2f5-c0170d275d94:number:1"
+        }
+      ],
+      "degreeData": [
+        {
+          "degreeTitle": "9d7b5e2c-37c2-456a-846c-c32051b3bcf4:string:Bachelor of Computing (Computer Science)",
+          "dateConferred": "aeec768d-6f66-4f50-ad08-43fb84a8207b:string:2026-01-31",
+          "dateAdmitted": "b970dfec-8911-42cf-b5aa-0d813d1aa8d4:string:2022-08-01",
+          "GPAName": "23bbe4e5-f370-478c-82ad-a147556abd77:string:Grade Point Average",
+          "includeInGPA": "3c76c34a-74f7-40dc-b17c-e9c075ee8a2d:boolean:true",
+          "disableGPA": "117a219c-f916-49cf-a9b5-dcdb7ceb66da:boolean:false",
+          "cumGPA": "bce2c4ca-fe12-408b-a9c6-1f38990fb0eb:number:4.6",
+          "cumCredits": "75c73c71-d4cc-4562-986d-322f3deb0771:number:163",
+          "honours": "78e637b6-b0e1-44fc-828e-ec0e60642184:string:Honours (Highest Distinction)",
+          "reportNo": "9284d606-2f40-4018-98e4-891153b3d2fe:number:1"
+        }
+      ],
+      "uniqueId": "6a160f45-eab7-4109-851c-ea682f3267e3:string:NUS-A0255771X-B031003-P19005844-983-20260131"
+    }
+  },
+  "schema": "https://raw.githubusercontent.com/OpenCerts/open-certificate/master/schema/transcripts/2.0/schema.json",
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "fea06f20212de08d017149f80a6a34853a37a9cc8d66bf4a031bb1c4cff127a6",
+    "proof": [
+      "75f099ac466cec5cdffbc4c696159ee878d84bb898d9394055ab1dbb7917596d",
+      "2666d8471f1e5b57de79d2ee5e7aec7a34ad98d01b349223f44208b60a0d1b5f",
+      "2fa0cbc8b7f05c09d280aba2b381d3bcc61685ba1ba3cdec78a6a545b7d06828",
+      "4d36f0264a859f22dda4fa25ccbbb9b9dcec916aac94cb60cd053040e65a6af7",
+      "545cb0380b03e0ef363c7575a4dcf63d8ba6d475a6b4dd06ec405bd5f44f1bc2",
+      "b4d657072c92b31eeaee73d07a04bdc09c5373b554c9e212fc2a8b8f93b25457",
+      "e70e2c1b9731faba097746998be6424b09905fce790617bc54e2e319d0c7d311",
+      "8996924d13d6fc5b0d8f023ce1490d7f6e5b33f438c97e3212db9d803f5b0180",
+      "4d8b29026cab86599bcd370f7b2faea65cf941b51023b07b5ee7468b20bc699a"
+    ],
+    "merkleRoot": "6a3639ff1e8b12e81448ad3883f53a9a1aedb3411055048cc3350a6c1d6eceeb"
+  },
+  "proof": [
+    {
+      "type": "OpenAttestationSignature2018",
+      "created": "2026-02-03T08:43:12.874Z",
+      "proofPurpose": "assertionMethod",
+      "verificationMethod": "did:ethr:0x253b74046d0d0d9efe214212f7900ae8b4f78f39#controller",
+      "signature": "0x03e4a365c2341c28e04a2426fd76f95c4b6f9cb72c7b9bc83b858e9f7597b58a736c698ec555c917d7c294ba0f2f1baf048f11c7ff80f516216f5e05d9dd6bbe1c"
+    }
+  ]
+}
