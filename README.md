@@ -11,7 +11,7 @@
 
 ## 🔭 I'm currently working as:
 
-- Quantitative Technology Intern @ Qube Research & Technologies
+- Quantitative Technology Analyst @ Qube Research & Technologies
 
 ## 🛠️ My skills:
 
