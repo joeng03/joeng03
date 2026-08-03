@@ -74,3 +74,5 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+datasets/ms-capital-real-financial-market-forecasting.zip
